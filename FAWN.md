@@ -30,7 +30,7 @@ nmap 10.129.1.14
 
 ## Exploitation
 
-- Failing to diable anonymous login on an FTP server can result in anonymous login that leaves sensitive files available for view and extraction.
+- Failing to disable anonymous login on an FTP server can result in anonymous login that leaves sensitive files available for view and extraction.
 
 ### Initial Access
 
