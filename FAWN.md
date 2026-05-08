@@ -40,9 +40,15 @@ nmap 10.129.1.14
 
 ![FAWN_ftp_connection](Screenshots/FAWN_ftp_connection.png)
 
+
+
 ## Privilege Escalation
 
 - While privelege escaltion was unnecessary in this case, by neavigating the FTP server, the file labelled "falg.txt" was discovered and the falg was captured within the file contents.
 
+## Flags Captured
+
 ![FAWN_flag](Screenshots/FAWN_flag.png)
 
+## Lessons Learned
+- It is important when configuring an FTP server that the anonymous access is disabled to prevent unauthorized access to sensitive files.
