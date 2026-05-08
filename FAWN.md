@@ -30,11 +30,11 @@ nmap 10.129.1.14
 
 ## Exploitation
 
-- Failing to disable anonymous login on an FTP server can result in anonymous login that leaves sensitive files available for view and extraction.
+- Used anonymous credentials to gain access to FTP server internal files.
 
 ### Initial Access
 
-- Initial access was achieved by using the login credentials > 
+- Initial access was achieved by using the login credentials >> 
     Username: anonymous
     Password: annonymous
 
