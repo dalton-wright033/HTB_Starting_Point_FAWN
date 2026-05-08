@@ -34,7 +34,7 @@ nmap 10.129.1.14
 
 ### Initial Access
 
-- Initial access was achieved by using the login credentials: 
+- Initial access was achieved by using the login credentials > 
     Username: anonymous
     Password: annonymous
 
@@ -44,7 +44,7 @@ nmap 10.129.1.14
 
 ## Privilege Escalation
 
-- While privelege escaltion was unnecessary in this case, by neavigating the FTP server, the file labelled "falg.txt" was discovered and the falg was captured within the file contents.
+- While privelege escaltion was unnecessary in this case, by navigating the FTP server, the file labelled "flag.txt" was discovered and the flag was captured within the file contents.
 
 ## Flags Captured
 
