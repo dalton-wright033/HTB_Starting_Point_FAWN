@@ -9,7 +9,7 @@
 
 ## Objective
 
-- The objectiveo f this lab is to use a misconfigured File Transfer Protocol (FTP) misconfiguration to find the file containing the flag.
+- The objective of this lab is to use a misconfigured File Transfer Protocol (FTP) server to find the file containing the flag.
 
 
 ## Skills Demonstrated
